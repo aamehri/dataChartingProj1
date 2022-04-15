@@ -1,0 +1,7 @@
+sunday 78.6
+monday 80.2
+tuesday 81.3
+wednesday 75.0
+thursday 67.2
+friday 60.0
+saturday 65.5
